@@ -1,3 +1,7 @@
+ ![WhatsApp Image 2023-10-23 at 12 38 41 PM (1)](https://github.com/cypherbadger/ETH_SALVADOR_2024/assets/68619730/7c2eb7eb-683d-40be-92d6-77524d3b5d4c)
+ 
+
+
 ## ETH Volcano - Official Website 🌋
 
 ETH Salvador 2024 Repository: Join us in shaping the first major Ethereum and Web3 community event in El Salvador, the land of Bitcoin. We're building the website for this groundbreaking event in San Salvador, March 9, 2024. Get involved, contribute, and be part of the team. Active collaborators will receive special recognition at the event. Let's make history together!
