@@ -1,4 +1,4 @@
-##🌋 ETH Volcano - Official Website 🌋
+🌋 ## ETH Volcano - Official Website 🌋
 
 ETH Salvador 2024 Repository: Join us in shaping the first major Ethereum and Web3 community event in El Salvador, the land of Bitcoin. We're building the website for this groundbreaking event in San Salvador, March 9, 2024. Get involved, contribute, and be part of the team. Active collaborators will receive special recognition at the event. Let's make history together!
 
