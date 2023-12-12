@@ -12,11 +12,11 @@ const Details = () => {
       title: "Who's it for?",
       copy: "Anyone who wants to learn about DAOs, or build a DAO",
     },
-    { title: "When?", copy: "December 1st - 15th" },
-    { title: "Where?", copy: "Online" },
+    { title: "When?", copy: "09 Marzo 2024" },
+    { title: "Where?", copy: "San Salvador, El Salvador" },
     {
       title: "How much?",
-      copy: "Free to attend, but you need to register",
+      copy: "TBA",
     },
   ];
   return (

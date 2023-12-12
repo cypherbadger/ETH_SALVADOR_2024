@@ -1,36 +1,36 @@
 const Intro = () => {
   const text = [
-    "DAOs are the future of coordination. Yet, since The DAO in ‘16, we watched countless DAOs struggle, wither & die.",
-    "They say 90% of startups fail. For DAOs it's much worse.",
-    "As if building useful things wasn’t hard enough, DAOists are also innovating on the governance front, using the latest (unfinished) tools, and so on.",
-    "DAOcember is gathering DAO veterans from across the space, to pass on wisdom to the next generation of DAOists.",
-    "DAO playbooks are yet unwritten, so let’s write some.",
+    "Un espacio único para aprender, hackear y visionar el futuro del web3 en un país que celebra la innovación digital con Ethereum como protagonista.",
+    "Descubre el potencial de las DAOs, DeFi y NFTs, y cómo Ethereum está marcando la pauta en el nuevo internet.",
+    "Conéctate con investigadores, desarrolladores y pioneros del ecosistema de Ethereum en un entorno vibrante y lleno de energía salvadoreña."
   ];
+
   return (
     <>
       <p className="max-w-2xl mx-auto px-2 text-center text-xl mb-12">
-        A virtual gathering of DAOists boosting the new generation. Learn from
-        the best & get your DAO growin&apos;
+        ETH Salvador 2024: Aprende, innova y conecta en el corazón de la revolución digital en El Salvador. Un evento imperdible para entusiastas de Ethereum y la tecnología blockchain.
       </p>
       <div className="flex flex-col sm:flex-row justify-center gap-4 mb-14 px-4">
         <a
-          href="https://t.me/+u8ZjX_vERSU2N2U0"
+          href="https://www.notion.so/826fca925faf4edeaa94f73b9561e606?pvs=21"
           target="_blank"
           rel="noopener noreferrer"
-          title="Telegram"
+          title="Tickets"
           className="button"
         >
-          Join Now
+          Consigue tus entradas
         </a>
         <a href="#schedule" className="button">
-          Full Schedule
+          Agenda completa
         </a>
       </div>
       <div className="max-w-xl space-y-6 mx-auto px-2">
         {text.map((t, i) => (
-          <p className="text-center text-base" key={i}>
-            {t}
-          </p>
+          <div className="bg-white/10 backdrop-blur-md border-s-[#FFA479] border-4 sm:rounded-md p-4" key={i}> {/* Fondo difuminado con borde */}
+            <p className="text-center text-base">
+              {t}
+            </p>
+          </div>
         ))}
       </div>
     </>

@@ -1,56 +1,47 @@
-type ActCardInfo = {
-  id: string;
-  romanNumeral: string;
-  title: string;
-  topics: string[];
-};
-
 const actInfo: ActCardInfo[] = [
   {
     id: crypto.randomUUID(),
     romanNumeral: "I",
-    title: "Wait wut?",
+    title: "Ethereum en El Salvador: Fundamentos",
     topics: [
-      "WTF are DAOs",
-      "Why DAO, to DAO or not to DAO",
-      "Types of DAOs",
-      "Become The Best DAO Contributor",
-      "The Art of DAOing",
-      "Mission, Purpose & Personas",
-      "Membership, Roles & Authorities",
-      "Tools, Building Blocks & Mechanisms",
+      "Fundamentos de Ethereum y su impacto local",
+      "Ley Bitcoin y uso de Ethereum",
+      "Ley de Activos Digitales: Efectos en Ethereum",
+      "Oportunidades de Ethereum en legislación local",
+      "DeFi en El Salvador: Innovación con Ethereum",
+      "Cultura digital: NFTs, DAOs con Ethereum",
+      "Ethereum en negocios salvadoreños",
+      "Ethereum: Herramienta de desarrollo"
     ],
   },
   {
     id: crypto.randomUUID(),
     romanNumeral: "II",
-    title: "DAO summoning",
+    title: "Ethereum: Casos de Uso y Desarrollo",
     topics: [
-      "Strategy, Focus & Prioritization",
-      "Sustainability Models & Tokenomics",
-      "Governance Patterns",
-      "Building Healthy Communities",
-      "Reputation, Rewards & Compensation",
-      "Transparency, Accountability & Privacy",
-      "Capture & Censorship Resistance",
-      "Rhythms, Phases & Feedback Loops",
-      "DAO Canvas",
+      "Desarrollo en Ethereum: Contratos y DApps",
+      "Ethereum y sostenibilidad: Proyectos regenerativos",
+      "Gobernanza digital y DAOs en contexto legal",
+      "Tokenización en economía digital salvadoreña",
+      "Educación y formación en Ethereum",
+      "Adopción de Ethereum: Retos y soluciones",
+      "Integración de Ethereum en sectores público y privado",
+      "Futuro de Ethereum en El Salvador"
     ],
   },
   {
     id: crypto.randomUUID(),
     romanNumeral: "III",
-    title: "DAO thriving",
+    title: "Futuro: Ethereum y Regulación en El Salvador",
     topics: [
-      "Internal & External Communication",
-      "Product or Community Market Fit",
-      "Conflict Resolution",
-      "Funding & Resource Allocation",
-      "Marketing, Growth & Scaling",
-      "Legal Structures & Concerns",
-      "Advisors, Stewards & Councils",
-      "Death, Decomposition or Resurrection",
-      "Future of DAOs & The Bigger Picture",
+      "El Salvador: Modelo de adopción de cripto",
+      "Desafíos y oportunidades regulatorias para Ethereum",
+      "Legislación de activos digitales y Ethereum",
+      "Colaboración público-privada en torno a Ethereum",
+      "Ethereum en proyectos de impacto social",
+      "Seguridad y privacidad en uso de Ethereum",
+      "Ethereum en el panorama global",
+      "Ethereum en economía y sociedad salvadoreña"
     ],
   },
 ];

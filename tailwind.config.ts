@@ -11,7 +11,7 @@ const config: Config = {
       backgroundImage: {
         ball: "url(/ball.svg)",
         "sunrise-upper": "url(/bg-sunrise-upper.png)",
-        "sunrise-lower": "url(/bg_sunrise_lower.svg)",
+        "sunrise-lower": "url(/bg_sunrise_lower.png)",
         "three-wise-summoners": "url(/three_wise_summoners.png)",
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
